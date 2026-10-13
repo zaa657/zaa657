@@ -10,10 +10,10 @@
 
 I am a passionate **Software Engineer / Full Stack Developer / Data Scientist** dedicated to building scalable web applications and solving complex technical problems. 
 
-- 🔭 **Currently working on:** [Proyek utama yang sedang dikerjakan]
-- 🌱 **Currently learning:** [Teknologi/Framework yang sedang dipelajari]
-- 🎯 **Goals:** [Tujuan profesional Anda, misal: Contributing to open-source / Building microservices]
-- 💬 **Ask me about:** [Topik keahlian utama Anda, misal: React, Node.js, System Architecture]
+- 🔭 **Currently working on:** Saya mengerjakan proyek pertama saya adalah Membuat Portofolio.
+- 🌱 **Currently learning:** saya mempelajari PHP, Laravel, Next.js, Flutter, React, Tailwindcss DLL.
+- 🎯 **Goals:** Contributing to open-source / Building microservices.
+- 💬 **Ask me about:** React, Node.js, System Architecture.
 
 ---
 
@@ -39,8 +39,8 @@ I am a passionate **Software Engineer / Full Stack Developer / Data Scientist** 
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **[Nama Proyek 1]** | Deskripsi singkat mengenai proyek dan masalah yang diselesaikan. | `React` `Node.js` `PostgreSQL` | [GitHub](https://github.com/username/project-1) / [Live](https://demo.com) |
-| **[Nama Proyek 2]** | Deskripsi singkat mengenai proyek dan fitur utamanya. | `Python` `FastAPI` `Docker` | [GitHub](https://github.com/username/project-2) |
+| **[Portofolio]** | ini adalah portofolio saya | `React` `Next.js` `tailwind` | [GitHub](#) |
+| **[Satarya]** | Website yang dibangun untuk mempromosikan pembuatan dari alumunium | `Python` `FastAPI` `Docker` | [GitHub](#) |
 
 ---
 
