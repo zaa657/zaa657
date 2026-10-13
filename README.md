@@ -40,7 +40,7 @@ I am a passionate **Software Engineer / Full Stack Developer / Data Scientist** 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **[Portofolio]** | ini adalah portofolio saya | `React` `Next.js` `tailwind` | [GitHub](#) |
-| **[Satarya]** | Website yang dibangun untuk mempromosikan pembuatan dari alumunium | `Python` `FastAPI` `Docker` | [GitHub](#) |
+| **[Satarya]** | Website yang dibangun untuk mempromosikan pembuatan dari alumunium | `PHP` `Laravel` | [GitHub](#) |
 
 ---
 
